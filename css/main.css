@@ -1,0 +1,22 @@
+#hero {
+   /* This is temporary, let content dictate the size */
+   height: 300px;
+}
+
+#products {
+   height: 300px;
+}
+
+#services {
+   height: 700px;
+}
+
+#footer {
+   height: 150px;
+}
+
+@media screen and (min-width: 1200px) {
+   #hidden-box {
+      display: block;
+   }
+}
